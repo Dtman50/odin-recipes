@@ -1,0 +1,1 @@
+This is my first portfolio project in odin starting the odin recipes. I am just using HTML currently to create a recipe page, those are the skills that should be presented thus far into the first page.
